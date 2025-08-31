@@ -1,0 +1,13 @@
+# Repositorio para crup de banco de dados 
+
+- Desenvolver um banco de dados com base em sprint
+
+## comandos para configurar o github inicialmente 
+
+- git init
+- git config --local user.name "cezar-rossi" , git config --local user.email "drlink@outlook.com"
+- git remote add origin https://github.com/cezar-rossi/db-unicid.git
+- git branch -M main
+- git add . => adiciona o conteudo modificado 
+- git commit -m "sua menssagen;"
+- git push -u origin main
